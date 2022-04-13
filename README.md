@@ -1,6 +1,5 @@
 ## Olá Eu sou o Eduardo Moura!🐱‍👤
 - 🔭 fullstack---Loading...🦸‍♂️
-- 🌱 Academico de CiC pela UnB🧙‍♂️
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/EduXmX">
