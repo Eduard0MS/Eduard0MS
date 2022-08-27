@@ -10,7 +10,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eduard0MS&theme=gotham&hide_border=true&area=true)
 
 <div align="center">  
-  <p>GitHub Achievements</p>
+  <p>GitHub Achievements:</p>
 </div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eduard0MS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
