@@ -38,6 +38,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-moura-0140521a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" /></a>
   <a href="
-https://www.instagram.com/edward_msx.x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" /></a>
+https://www.instagram.com/edward_msx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" /></a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
