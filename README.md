@@ -5,7 +5,7 @@
 
 **🎓 Computer Science Student** · UnB  
 **📍 Brasília, DF, Brazil**  
-**💼 Intern at the Ministry of Management and Innovation (MGI)**  
+**💼 Intern at the Ministry of Planning and Budget (MPO)**  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Passionate+about+Technology;Automation+|+AI;Always+Learning;Prompt+Engineering+Enthusiast)](https://git.io/typing-svg)
 
