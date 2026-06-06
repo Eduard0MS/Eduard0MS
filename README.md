@@ -50,8 +50,8 @@
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Eduard0MS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eduard0MS&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,php,javascript,blade" alt="Top Languages" height="192"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Eduard0MS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eduard0MS&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,php,javascript,blade" alt="Top Languages" height="192"/>
 </p>
 
 ---
