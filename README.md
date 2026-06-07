@@ -52,9 +52,6 @@
   <a href="https://linkedin.com/in/eduardo-moura-0140521a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/edward_msx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-  </a>
   <a href="https://github.com/Eduard0MS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
