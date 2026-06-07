@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 </p>
@@ -43,15 +42,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering" />
-</p>
-
----
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Eduard0MS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eduard0MS&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,php,javascript,blade" alt="Top Languages" height="192"/>
 </p>
 
 ---
