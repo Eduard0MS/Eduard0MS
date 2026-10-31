@@ -1,70 +1,105 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header"/>
-
-<h1 align="center">Hello, intruder.</h1>
+<h1 align="center">Eduardo Moura</h1>
 
 <p align="center">
-  <strong>Computer Science Student</strong> · UnB <br>
-  <strong>Software Developer</strong> · Ministry of Planning and Budget (Creator of the Nexo platform) <br>
-  <strong>Brasília, DF, Brazil</strong>
+  <strong>Software Developer</strong><br>
+  Backend Development &amp; Automation
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=22&center=true&vCenter=true&width=800&lines=Software+Engineering+%26+Backend+Development;Passionate+about+Technology+and+Automation;AI+%26+Prompt+Engineering+Enthusiast;Always+Learning" alt="Typing SVG" />
+  Computer Science Student · University of Brasília (UnB)<br>
+  Brasília, DF, Brazil
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/eduardo-moura-0140521a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Eduard0MS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+<hr>
 
-<h2 align="center">Main Technologies & Tools</h2>
+<h2 align="center">About</h2>
 
-<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  I'm a software developer at Brazil's <strong>Ministry of Planning and Budget (MPO)</strong>,<br>
+  with a focus on backend development and automation.
 </p>
 
-<h3 align="center">Infrastructure & Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  My technical interests include software engineering<br>
+  and the application of AI to development workflows.
 </p>
 
-<h3 align="center">AI & Automation</h3>
+<h2 align="center">Featured Work</h2>
+
+<h3 align="center">Nexo</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering" />
+  Creator of the <strong>Nexo platform</strong>,<br>
+  developed at the Ministry of Planning and Budget.
 </p>
 
----
+<h2 align="center">Technologies &amp; Tools</h2>
 
-<h2 align="center">Contact & Links</h2>
+<h3 align="center">Languages &amp; Frameworks</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eduardo-moura-0140521a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&amp;logo=django&amp;logoColor=44B78B" alt="Django" />
+</p>
+
+<h3 align="center">Databases &amp; Caching</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=6C9BCF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&amp;logo=mysql&amp;logoColor=F29111" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&amp;logo=redis&amp;logoColor=FF4438" alt="Redis" />
+</p>
+
+<h3 align="center">Infrastructure &amp; Version Control</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+</p>
+
+<h3 align="center">AI &amp; Automation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge" alt="Prompt Engineering" />
+</p>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/Eduard0MS">
+    <img
+      width="495"
+      src="https://streak-stats.demolab.com/?user=Eduard0MS&amp;hide_current_streak=true&amp;hide_longest_streak=true"
+      alt="Total GitHub contributions since April 2022"
+    />
   </a>
-  <a href="https://github.com/Eduard0MS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<h3 align="center">Contribution Calendar</h3>
+
+<p align="center">
+  <a href="https://github.com/Eduard0MS">
+    <img
+      width="800"
+      src="https://ghchart.rshah.org/00bfbf/Eduard0MS"
+      alt="GitHub contribution calendar for the past twelve months"
+    />
   </a>
 </p>
 
-<br>
-
-<details>
-  <summary align="center"><strong>Visitor Count</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/Eduard0MS/count.svg" alt="Visitor Count"/>
-  </p>
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="Footer"/>
+<p align="center">
+  <sub>Contribution history over the past twelve months.</sub>
+</p>
